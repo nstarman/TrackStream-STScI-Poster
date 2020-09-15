@@ -1,6 +1,21 @@
-.. _STScI-The-Local-Group:
+.. _STScI-the-local-group:
 
 STScI: The Local Group Poster
 =============================
 
-The code is located at `https://github.com/nstarman/streamtrack <https://github.com/nstarman/streamtrack>`_
+.. image:: figures/front-image.png
+  :target: starkman_stsci_poster.pdf
+
+
+The code to make the figures is located at 
+
+
+.. toctree::
+	:maxdepth: 1
+
+	figures/STScI_poster.ipynb
+
+There is also a MarkDown and R-Markdown version at the same location.
+
+
+The associated package is located at `https://github.com/nstarman/streamtrack <https://github.com/nstarman/streamtrack>`_
