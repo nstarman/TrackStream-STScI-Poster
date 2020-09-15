@@ -7,13 +7,13 @@ STScI: The Local Group Poster
   :target: starkman_stsci_poster.pdf
 
 
-The code to make the figures is located at 
+The code to make the figures is located `here <figures/STScI_poster.ipynb>`_
 
 
 .. toctree::
-  :maxdepth: 1
+   :maxdepth: 1
 
-  figures/STScI_poster.ipynb
+   figures/STScI_poster.ipynb
 
 There is also a MarkDown and R-Markdown version at the same location.
 
