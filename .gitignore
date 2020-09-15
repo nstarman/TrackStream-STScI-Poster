@@ -1,0 +1,21 @@
+###############################################################################
+# PROJECT-SPECIFIC
+
+###############################################################################
+# DEFAULT
+
+# Latex Files
+*.aux
+*.blg
+*.gz
+*.out
+*.fls
+*.fdb_latexmk
+/macro_paper.log
+
+# Compiled files
+*.py[cod]
+__pycache__
+
+# Mac OSX
+*.DS_Store
