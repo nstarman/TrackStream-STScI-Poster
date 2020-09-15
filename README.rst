@@ -11,9 +11,9 @@ The code to make the figures is located at
 
 
 .. toctree::
-	:maxdepth: 1
+  :maxdepth: 1
 
-	figures/STScI_poster.ipynb
+  figures/STScI_poster.ipynb
 
 There is also a MarkDown and R-Markdown version at the same location.
 
