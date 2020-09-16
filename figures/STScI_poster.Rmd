@@ -69,11 +69,11 @@ from filterpy.stats import plot_covariance  # a very nice plotter function
 # PROJECT-SPECIFIC
 # warning this will probably be changed to `trackstream`
 
-import streamtrack as st
-from streamtrack import examples
-from streamtrack import preprocess as prep
-from streamtrack import process
-from streamtrack.utils import convert
+import trackstream as st
+from trackstream import examples
+from trackstream import preprocess as prep
+from trackstream import process
+from trackstream.utils import convert
 ```
 
 ```{python}
